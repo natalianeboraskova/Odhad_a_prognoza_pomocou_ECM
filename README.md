@@ -6,7 +6,9 @@ Projekt obsahuje:
 * Teoretický popis modelu - vysvetlenie, popis a presné zdroje získania použitých údajov a ich dátový prehľad - vizualizácia, popis výkyvov a charakteristiky 
 * Odhadnutý predpokladaný vstupný model so všetkými testami - vysvetlenie postupu analýzy a zásahov do modelu a finálny model s jeho odhadom a testami 
 * Pomocou finálneho modelu ECM vypočítaná prognóza na najbližšie 4 obdobia
-* V README sa nenachádzajú  číselné výstupy testov vzhľadom na ich zabratie priestoru, tie sa budú nachádzať v súbore .qmd
+* V README sa nenachádzajú  číselné výstupy testov vzhľadom na ich zabratie priestoru, tie sa budú nachádzať v súbore:
+  [Pozrieť QMD súbor](./ekonometriaprojekt.qmd)
+[Otvoriť HTML prezentáciu/report](https://htmlpreview.github.io/?https://github.com/natalianeboraskova/Odhad_a_prognoza_pomocou_ECM/blob/main/ekonometriaprojekt.html)
 
 # Vzťah medzi HDP a tvorbou investícií - Taliansko
 Model s korekčným členom (Error Correction Model, ECM) je ekonometrický nástroj využívaný na modelovanie dlhodobých rovnovážnych vzťahov medzi nestacionárnymi časovými radmi a krátkodobej dynamiky odchýlok od tejto rovnováhy. Teoretickým základom ECM je koncept kointegrácie, ktorý zaviedli Engle a Granger (1987).
