@@ -10,6 +10,8 @@ Projekt obsahuje:
   [Pozrieť QMD súbor](./ekonometriaprojekt.qmd) ,
 [Otvoriť HTML - treba ho stiahnuť](./ekonometriaprojekt.html)
 
+Program: RStudio
+
 # Vzťah medzi HDP a tvorbou investícií - Taliansko
 Model s korekčným členom (Error Correction Model, ECM) je ekonometrický nástroj využívaný na modelovanie dlhodobých rovnovážnych vzťahov medzi nestacionárnymi časovými radmi a krátkodobej dynamiky odchýlok od tejto rovnováhy. Teoretickým základom ECM je koncept kointegrácie, ktorý zaviedli Engle a Granger (1987).
 
