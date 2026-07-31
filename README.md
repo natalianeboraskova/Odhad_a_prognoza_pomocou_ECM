@@ -7,7 +7,7 @@ Projekt obsahuje:
 * Odhadnutý predpokladaný vstupný model so všetkými testami - vysvetlenie postupu analýzy a zásahov do modelu a finálny model s jeho odhadom a testami 
 * Pomocou finálneho modelu ECM vypočítaná prognóza na najbližšie 4 obdobia
 * V README sa nenachádzajú  číselné výstupy testov vzhľadom na ich zabratie priestoru, tie sa budú nachádzať v súbore:
-  [Pozrieť QMD súbor](./ekonometriaprojekt.qmd)
+  [Pozrieť QMD súbor](./ekonometriaprojekt.qmd) ,
 [Otvoriť HTML - treba ho stiahnuť](./ekonometriaprojekt.html)
 
 # Vzťah medzi HDP a tvorbou investícií - Taliansko
